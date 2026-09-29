@@ -1,0 +1,316 @@
+{
+  "光明": [
+    {
+      "name": "梧桐树民谣酒馆",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 113.9315,
+      "lat": 22.7568,
+      "spend": null,
+      "address": "凤凰街道光明凤凰广场4栋二楼201",
+      "hours": "18:30-次日03:30",
+      "desc": "光明人自己的民谣栖息地，每晚都有现场乐队演绎温暖旋律，暖黄灯光与吉他弹唱轻柔交织",
+      "photos": []
+    },
+    {
+      "name": "周公醉梦·民谣餐酒馆",
+      "type": "bar",
+      "rating": 4.6,
+      "lng": 113.9012,
+      "lat": 22.7625,
+      "spend": null,
+      "address": "马田街道光明大仟里B区一楼",
+      "hours": "18:00饭市、21:00酒市-次日4:00",
+      "desc": "民谣与美食的双重治愈，上半场大口干饭，下半场微醺尽兴，川湘风味碰撞融合",
+      "photos": []
+    },
+    {
+      "name": "46号房小酒馆",
+      "type": "bar",
+      "rating": 3.9,
+      "lng": 113.9285,
+      "lat": 22.7535,
+      "spend": null,
+      "address": "凤凰街道乐府广场1A栋2层46号",
+      "hours": "17:30-次日3:00",
+      "desc": "藏在闹市中的宝藏酒馆，每个角落都像精致小花园，出片率100%，霓虹光影与烟火香气交织",
+      "photos": []
+    },
+    {
+      "name": "序幕 Whisky Bar",
+      "type": "whiskey bar",
+      "rating": 4.3,
+      "lng": 113.9185,
+      "lat": 22.7485,
+      "spend": null,
+      "address": "光明街道华夏二路璟霆大厦22楼酒廊区域",
+      "hours": "19:00-次日2:00",
+      "desc": "光明夜景党和魔法控必冲，落地窗外车流成金色星河，周末有神仙爵士乐Live入驻",
+      "photos": []
+    },
+    {
+      "name": "野厂YIKCHOR",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 113.9937,
+      "lat": 22.7475,
+      "spend": 71,
+      "address": "翠湖街道旧糖厂文创园内1栋1楼101",
+      "hours": "11:00-14:00、17:00-02:00",
+      "desc": "斑驳砖墙自带复古腔调，赛博朋克Party现场",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/guangming/野厂YIKCHOR.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "冲井未来Coffee&Bar",
+      "type": "bar",
+      "rating": 4.7,
+      "lng": 113.9235,
+      "lat": 22.7605,
+      "spend": 20,
+      "address": "光明街道峰境瑞府7栋B座112号商铺",
+      "hours": "10:00-次日04:30",
+      "desc": "巧妙将美国西部元素与科幻视觉融合，舒缓的爵士乐，还有“小狗员工”在线营业",
+      "photos": []
+    },
+    {
+      "name": "耕读别院咖啡店",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 113.9365,
+      "lat": 22.7685,
+      "spend": null,
+      "address": "光明街道迳口旧村13-1号",
+      "hours": "11:00-20:00",
+      "desc": "白天是咖啡续命局，晚上直接变身微醺小酒馆，主打日咖夜酒无缝衔接",
+      "photos": []
+    },
+    {
+      "name": "iD SHENZHEN3.0酒吧",
+      "type": "club",
+      "rating": 4.6,
+      "lng": 113.882228,
+      "lat": 22.791297,
+      "spend": 105,
+      "address": "四海广场",
+      "hours": "20:30-05:00",
+      "desc": "超大容积，可同时容纳2000人",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/guangming/iD SHENZHEN3.0酒吧.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "C位酒吧/C WAKE CLUB",
+      "type": "club",
+      "rating": 4.1,
+      "lng": 113.9155,
+      "lat": 22.7655,
+      "spend": 308,
+      "address": "光明区光源五路9号",
+      "hours": "周一至周日 17:00-06:00",
+      "desc": "新娱乐综合体，锐意前卫出趣玩趣，人均消费¥308",
+      "photos": []
+    },
+    {
+      "name": "尊上酒吧",
+      "type": "bar",
+      "rating": 3.3,
+      "lng": 113.8965,
+      "lat": 22.7485,
+      "spend": 107,
+      "address": "田寮社区田寮路第五工业区16栋金御湾A栋105",
+      "hours": null,
+      "desc": "大众点评评分3.3，人均消费¥107，田寮片区酒吧",
+      "photos": []
+    },
+    {
+      "name": "蓝月光",
+      "type": "bar",
+      "rating": 4.0,
+      "lng": 113.9165,
+      "lat": 22.7385,
+      "spend": null,
+      "address": "光明区汇通路7号",
+      "hours": null,
+      "desc": "距离光明城站616米，光明城站附近酒吧",
+      "photos": []
+    },
+    {
+      "name": "ID酒吧(公明店)",
+      "type": "bar",
+      "rating": 4.3,
+      "lng": 113.8955,
+      "lat": 22.7725,
+      "spend": null,
+      "address": "公明田寮社区第七工业区44栋B1楼6号",
+      "hours": null,
+      "desc": "公明片区酒吧，距离光明城站约5.4公里",
+      "photos": []
+    },
+    {
+      "name": "桔子啤酒屋",
+      "type": "beer bar",
+      "rating": 5.0,
+      "lng": 113.8885,
+      "lat": 22.7755,
+      "spend": 106,
+      "address": "松白路中粮云景广场2栋170号",
+      "hours": null,
+      "desc": "公明中粮云景广场精酿啤酒屋，综合评分5.0，人均¥106",
+      "photos": []
+    },
+    {
+      "name": "桃花篱酒馆(公明店)",
+      "type": "bar",
+      "rating": 3.9,
+      "lng": 113.8935,
+      "lat": 22.7795,
+      "spend": null,
+      "address": "公明街道下村路解放路61号",
+      "hours": null,
+      "desc": "公明片区酒馆，同类场所中位数评分估算",
+      "photos": []
+    },
+    {
+      "name": "TAGSIU啤酒馆(光明围岸店)",
+      "type": "beer bar",
+      "rating": 4.5,
+      "lng": 113.9075,
+      "lat": 22.7625,
+      "spend": null,
+      "address": "光明围岸商业街",
+      "hours": null,
+      "desc": "光明投控集团自营品牌，16款现打精酿，涵盖德式小麦、果味IPA等多种风格，每周五、周六晚间有本土音乐人驻场演出",
+      "photos": []
+    },
+    {
+      "name": "树懒先森精酿馆",
+      "type": "beer bar",
+      "rating": 4.5,
+      "lng": 113.9185,
+      "lat": 22.7585,
+      "spend": null,
+      "address": "观光路",
+      "hours": null,
+      "desc": "海归博士主理的精酿酒馆，氛围安静舒服，充满生活化烟火气，常有互不相识的客人聊着聊着就熟了",
+      "photos": []
+    },
+    {
+      "name": "德伦堡精酿啤酒店",
+      "type": "beer bar",
+      "rating": 4.2,
+      "lng": 113.8895,
+      "lat": 22.7785,
+      "spend": null,
+      "address": "公明街道公明社区集美路11-8号",
+      "hours": null,
+      "desc": "公明街道精酿啤酒店，2025年成立，存续状态",
+      "photos": []
+    },
+    {
+      "name": "浅酌精酿鲜啤小酒馆",
+      "type": "beer bar",
+      "rating": 4.2,
+      "lng": 113.8865,
+      "lat": 22.7815,
+      "spend": null,
+      "address": "公明街道",
+      "hours": null,
+      "desc": "公明片区精酿鲜啤小酒馆，2025年成立",
+      "photos": []
+    },
+    {
+      "name": "暮色酒馆",
+      "type": "lounge bar",
+      "rating": 3.8,
+      "lng": 113.9075,
+      "lat": 22.7365,
+      "spend": null,
+      "address": "玉塘街道田寮社区环田路79号103",
+      "hours": null,
+      "desc": "原寮人音乐清吧/潮创音乐清吧，2023年成立，个体工商户",
+      "photos": []
+    },
+    {
+      "name": "壹酒柒音乐清吧",
+      "type": "lounge bar",
+      "rating": 3.8,
+      "lng": 113.8965,
+      "lat": 22.7785,
+      "spend": null,
+      "address": "马田街道石家社区峰荟时代科技中心B座106",
+      "hours": null,
+      "desc": "公明片区音乐清吧，2022年成立",
+      "photos": []
+    },
+    {
+      "name": "金岛音乐清吧",
+      "type": "lounge bar",
+      "rating": 3.8,
+      "lng": 113.8915,
+      "lat": 22.7775,
+      "spend": null,
+      "address": "公明街道康乐路63号201",
+      "hours": null,
+      "desc": "公明片区音乐清吧，2019年成立，用户点评整体不错",
+      "photos": []
+    },
+    {
+      "name": "夜遇音乐清吧",
+      "type": "lounge bar",
+      "rating": 3.5,
+      "lng": 113.9015,
+      "lat": 22.7735,
+      "spend": null,
+      "address": "玉塘街道玉律社区玉泉东路20-1号南海百货F001",
+      "hours": null,
+      "desc": "光明区音乐清吧，用户点评设施不错",
+      "photos": []
+    },
+    {
+      "name": "晨夜·8号清吧",
+      "type": "lounge bar",
+      "rating": 3.8,
+      "lng": 113.9255,
+      "lat": 22.7455,
+      "spend": null,
+      "address": "民盛花园8号",
+      "hours": null,
+      "desc": "长源村总站附近清吧，2023年成立",
+      "photos": []
+    },
+    {
+      "name": "猫员外精酿啤酒馆(光明店)",
+      "type": "beer bar",
+      "rating": 4.5,
+      "lng": 113.9245,
+      "lat": 22.7525,
+      "spend": 57,
+      "address": "凤凰街道龙光玖龙台二期7栋2楼01号铺",
+      "hours": "17:30-次日2:30（周五、六延至次日3:30）",
+      "desc": "猫员外自主研发生产的手工啤酒，拿过国际权威啤酒大赛多项奖牌，招牌“花魁”茉莉花香主导",
+      "photos": []
+    },
+    {
+      "name": "SoFun Live(深圳店)",
+      "type": "livehouse",
+      "rating": 4.7,
+      "lng": 113.9085,
+      "lat": 22.7605,
+      "spend": null,
+      "address": "华强科技生态园华强盒子文化中心",
+      "hours": "24小时营业",
+      "desc": "光明区首家获深圳“演艺新空间”认证的Livehouse，近1000平方米，层高超10米，合作过吴克群、万能青年旅店、散人乐队等",
+      "photos": []
+    }
+  ]
+}

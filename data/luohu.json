@@ -1,0 +1,2622 @@
+{
+  "罗湖": [
+    {
+      "name": "拿手酒馆",
+      "type": "bar",
+      "rating": 4.3,
+      "lng": 114.100708,
+      "lat": 22.542308,
+      "spend": null,
+      "address": "金华街8号金融中心大厦(红岭南地铁站C口步行50米)",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "深圳市爱豆酒吧有限公司",
+      "type": "bar",
+      "rating": 4.6,
+      "lng": 114.100188,
+      "lat": 22.565901,
+      "spend": 263,
+      "address": "招商中环B座(红岭北地铁站J口步行140米)",
+      "hours": "12:00-02:00",
+      "desc": "提供小食性价比高",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0I0TMTL59/headerImg/a0011d1f11d7ba7cc3aa19942b16db5c_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0I0TMTL59/headerImg/03e1c4cc7256d91d2fafe691ae4e6975_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0I0TMTL59/headerImg/cd23bc5dab7cc3094c6dd3f18c9d80b3_2048_2048_80.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "黛梦德啤酒屋(红岭店)",
+      "type": "beer bar",
+      "rating": 2.6,
+      "lng": 114.099758,
+      "lat": 22.555465,
+      "spend": 115,
+      "address": "红岭中路2068号中深国际大厦F1层",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "MIMO小酒馆",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.100106,
+      "lat": 22.565556,
+      "spend": 67,
+      "address": "笋岗街道红岭北路2088号招商中环B座负一楼",
+      "hours": "18:30-02:30",
+      "desc": "露天座位",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/943449b7a3b0818e5509170a6f5aeb77",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/350ab6d994c742926b9988000b2a9d0e",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/d61f6c1c9f2531e98d6845a85791d82b",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Jet'aime热代码法式鸡尾酒餐吧",
+      "type": "bar & restaurant",
+      "rating": 4.6,
+      "lng": 114.100106,
+      "lat": 22.565606,
+      "spend": null,
+      "address": "浦信路与梅园路交叉口西北100米(红岭北地铁站J出口右转50米)",
+      "hours": "11:30-02:00",
+      "desc": "外国餐厅",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/8b72b83ea97482440000004129806516?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0LR1LU9XD/comment/55A93087_17AF_414B_8825_18537E2B57B9_L0_001_1500_200_1770343043257_95141685.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/0a79da514896ca2d0000003220654705?type=pic",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "SPACE酒吧",
+      "type": "club",
+      "rating": 4.5,
+      "lng": 114.113908,
+      "lat": 22.546965,
+      "spend": null,
+      "address": "老街地铁站C口步行180米",
+      "hours": "24小时营业",
+      "desc": "蹦迪，舞美灯光酒吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/11ecca79c6ffc8cb17f12fee13114f40",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/b1f7791aeea0380f1d0bb107292302ec",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0KGRCMIO6/comment/4dca7e767fff6202e7f760816a07326b_2048_2048_80.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "幸酒吧(南湖路店)",
+      "type": "bar",
+      "rating": 3.4,
+      "lng": 114.115576,
+      "lat": 22.545429,
+      "spend": 98,
+      "address": "南湖路3044号粤海花园(湖贝地铁站F口步行280米)",
+      "hours": "20:00-02:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/58c9200840ebdbec0521ae1b332d6898",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "櫻悅酒吧Sakura Bar",
+      "type": "whiskey bar",
+      "rating": 3.6,
+      "lng": 114.116322,
+      "lat": 22.546084,
+      "spend": 300,
+      "address": "金城大廈第一座櫻悦酒吧Sakura Bar",
+      "hours": "20:00-02:00",
+      "desc": "聊天酒馆，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/0045a26046ddb4dbd4274cc96045128d",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/72b321ccba91d837562cb3c78770dcb3",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/d8d6b8773c8e551ca6dc8ef2549ae52a",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "纯色酒吧",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.116644,
+      "lat": 22.545911,
+      "spend": 43,
+      "address": "深南东路3001号金城大厦",
+      "hours": "20:00-02:00",
+      "desc": "日式，畅饮体验",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/083151fdd64adba0c1a7381eefece2f1",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "杰森酒吧",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.114542,
+      "lat": 22.541413,
+      "spend": 60,
+      "address": "人民南路深圳发展中心1层(金光华广场南面)",
+      "hours": "11:00-04:00",
+      "desc": "大屏观赛，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/0cbfa4a16d9c2c7077433aa8f85711f7",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/c10bbc535f3eb1e0b33f2456563d7bf2",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/c9c240a841edf4bac0ff6dc49a0078ee",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Oasis bar友恒酒吧·咖啡",
+      "type": "bar",
+      "rating": 3.9,
+      "lng": 114.116021,
+      "lat": 22.545351,
+      "spend": null,
+      "address": "南湖路深南东路(国贸地铁站B口步行460米)",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/7c97acecbc51fb640f90cb4477422b17",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/de1c65e3e4dbca47abd6cf929e6f3033",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/comment/content_service__1770735221196_94132144_1770735249199_70537088.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "口红酒吧",
+      "type": "bar",
+      "rating": 3.8,
+      "lng": 114.117061,
+      "lat": 22.545258,
+      "spend": 115,
+      "address": "金城大厦第五座东门旁(湖贝地铁站C口步行380米)",
+      "hours": "22:00-03:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/098aeaf046f4904a1a47d740b419e659",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/e02a7e1d337d545c895c845e885c58ca",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/b1d573b1fac49aed209513d5cb260e5f",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "CT Lounge",
+      "type": "lounge bar",
+      "rating": 4.6,
+      "lng": 114.114453,
+      "lat": 22.544542,
+      "spend": 108,
+      "address": "人民南路3012号天安国际大厦A座B1层",
+      "hours": "19:00-03:00",
+      "desc": "聊天酒馆，Live演出",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/c0789887d2d1b2420000002795726769?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0FFLKE4C8/comment/2901726283a7b3432b36bd1d41a75571_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://aos-cdn-image.amap.com/sns/ugccomment/2d911e71-5c12-449b-912e-3a463e38a07f.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外啤酒馆(南湖路店)",
+      "type": "beer bar",
+      "rating": 4.3,
+      "lng": 114.115566,
+      "lat": 22.543725,
+      "spend": 66,
+      "address": "南湖路3005号南湖时代广场F1层",
+      "hours": "周一至周四,周日 17:30-02:30；周五至周六 17:30-03:30",
+      "desc": "鸡尾酒，精酿酒肆",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/c5327a93fb326075aad84618d05108b4",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/b86d6b88667b8f190000005062914089?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/0c6ed874b44cbc4ca1abfe78081325de",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Malt house酒吧(Halo广场店)",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.103696,
+      "lat": 22.561013,
+      "spend": 93,
+      "address": "宝安北路1007号HALO广场3期F1层",
+      "hours": "19:00-03:00",
+      "desc": "安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/cfdd9658bef6ba1a13a024b9cf257f1c",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/37b5fade316e06a386ab0db40aa64df8",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0G0HKE8GW/comment/content_media_external_file_100002093_1754145869041_18007378.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "R&M Whiskey bar酒吧(笋岗招商中环店)",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.101207,
+      "lat": 22.56816,
+      "spend": 106,
+      "address": "梨园路招商中环2栋b座f1-102",
+      "hours": "18:00-03:00",
+      "desc": "安静小酌，聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HR7AO6RA/headerImg/9A2B6ADD_CD3D_4C31_A26F_22E195ECDDE1_L0_001_4032_3024__1661244450504_86efbf44.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HR7AO6RA/comment/57d7a3220bac36951c9c18527dfd58df_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HR7AO6RA/comment/0916e62e8a281b66ad59e2ac6b00153b_2048_2048_80.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "798小酒馆(HALO广场店)",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.1031,
+      "lat": 22.56108,
+      "spend": 49,
+      "address": "深圳市罗湖区宝安北路1007号HALO广场3期F1层",
+      "hours": "20:00-03:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/798小酒馆(HALO广场店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "蓝羽酒吧- Blue Feather",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.118133,
+      "lat": 22.551969,
+      "spend": 87,
+      "address": "东门中心城4层-05(晒布地铁站A2口旁)",
+      "hours": "19:30-04:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/3dd577089cca1f623fcda23bab66efed",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/db8b72173545a36782f83130fcd604f9",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/41d8197a1da0424e6f8e9f599ae9fbc0",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "星木烧烤酒馆(ADC艺展中心3期店)",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.101236,
+      "lat": 22.564249,
+      "spend": 98,
+      "address": "笋岗街道笋岗社区艺展中心3期6楼C05",
+      "hours": "17:00-02:00",
+      "desc": "聊天酒馆烧烤吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0I0RSXG3O/comment/0792c4542fcd66be6bc8f8e6ea602df3_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0I0RSXG3O/comment/981dd40816b23f756fec9bcd5a8a816d_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0I0RSXG3O/comment/60ae50242ceac5b61c1a1f442540192d_2048_2048_80.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外啤酒馆(国速荟店)",
+      "type": "beer bar",
+      "rating": 4.2,
+      "lng": 114.103708,
+      "lat": 22.554479,
+      "spend": 68,
+      "address": "桂园街道宝安南路3029号国速世纪大厦107",
+      "hours": "周一至周四,周日 17:30-02:30；周五至周六 17:30-03:30",
+      "desc": "大屏观赛，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HRLZ0263/comment/content_media_external_file_45768_1772951155605_13214926.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HRLZ0263/comment/content_media_external_file_100029377_1769080525804_63715318.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HRLZ0263/comment/content_media_external_file_100029377_1769080525690_45136264.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外啤酒馆(晒布店)",
+      "type": "beer bar",
+      "rating": 4,
+      "lng": 114.115754,
+      "lat": 22.5528,
+      "spend": 67,
+      "address": "东门街道立新社区晒布路73号106(大院北门旁)",
+      "hours": "周一至周四,周日 17:30-02:30；周五至周六 17:30-03:30",
+      "desc": "鸡尾酒，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/e5b99766120e05e59f776f93b79435c3",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HK9AXTHQ/comment/f8c50ebaaa13e280ad465dcd268759a4_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HK9AXTHQ/comment/2025-12-18-20-40-40%2BC9F56462-29B4-4F43-B135-0674C220CBA_1766061647006_72739036.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外啤酒馆(水贝店)",
+      "type": "beer bar",
+      "rating": 4.5,
+      "lng": 114.119126,
+      "lat": 22.572778,
+      "spend": 74,
+      "address": "水贝二路81号(洪湖地铁站D口步行350米)KK TIMEL1层",
+      "hours": "17:30-03:30",
+      "desc": "精酿酒肆，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/58d01a27c349f4a5ca7ddb361ad4ff50",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0JKL55EIU/comment/da9c8dde222c3a92429546dad0818e16_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/71ca0779e5517baf0000002238898708",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "楼下酒馆Downstairs Bar",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.109217,
+      "lat": 22.574009,
+      "spend": 101,
+      "address": "书轩路与艺文路交叉口东南60米",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "LICHA",
+      "type": "bar",
+      "rating": 2.6,
+      "lng": 114.102827,
+      "lat": 22.588186,
+      "spend": null,
+      "address": "深圳市罗湖区红岗路1251号雅普城堡商业广场",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "Under Cloud",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.109526,
+      "lat": 22.574323,
+      "spend": 112,
+      "address": "笋岗街道田心社区宝岗路230号中洲铂玺坊1-10号",
+      "hours": "19:00-02:00",
+      "desc": "水烟口味多",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/0b854bf3c608da758770c5b971fa7275",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/03b42b064765e01c0000003039320323?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/2887c1926db0c326caaae25f3c69b860",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "沐东烧鸟酒馆(京基·凤凰印象店)",
+      "type": "bar & restaurant",
+      "rating": 4.5,
+      "lng": 114.128534,
+      "lat": 22.549605,
+      "spend": 180,
+      "address": "荒北街道凤凰路181号京基凤凰印象1Q",
+      "hours": "周一至周五 13:00-04:00；周六至周日 17:00-04:00",
+      "desc": "深夜食堂氛围",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0J1U91W9J/comment/b868a1b0a6c117b573dafd87dc88662b_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/08dbe69ff0d4a81b3f38bb46bc9a7adc",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0J1U91W9J/comment/9d18406f458c2ffc1ddfa0556bc35840_2048_2048_80.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "奈斯Nice酒吧",
+      "type": "bar",
+      "rating": 3.8,
+      "lng": 114.121311,
+      "lat": 22.541657,
+      "spend": null,
+      "address": "东门南路1074号瑞鹏大厦一层兰欧酒店侧门",
+      "hours": "20:00-06:00",
+      "desc": "有包厢的酒吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/f407694f0829e986224f14a90244c333",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/5f4c992fc586fb07e6669a69957c7add",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Celia西莉亚酒吧",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.130057,
+      "lat": 22.545034,
+      "spend": 75,
+      "address": "黄贝街道文化社区北斗路2号汇鑫花园汇鑫商业裙楼一层3号",
+      "hours": "20:00-04:00",
+      "desc": "特调鸡尾，聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/896894859ca655bac5307083462e8ee3",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0LDRZ49Z5/comment/06CA54CF_6A19_40D6_A02F_B778F4B217D0_L0_001_1512_201_1762418778322_24476983.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0LDRZ49Z5/comment/8579C377_6897_4291_8420_77571D88FA01_L0_001_2000_150_1750229175170_22313903.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外啤酒馆(深南万科里店)",
+      "type": "beer bar",
+      "rating": 4.3,
+      "lng": 114.123436,
+      "lat": 22.546737,
+      "spend": 87,
+      "address": "南湖街道新南社区深南东路2011号万科深南广场1层",
+      "hours": "周一至周四,周日 17:30-02:30；周五至周六 17:30-03:30",
+      "desc": "音乐餐吧，Live演出",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/061f3d3a35197e3bcd8932d82b0e8174",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/c808896b4b4bef3d66259cf51075b99e",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/e980d671081a729e555adc62776784cc",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "公路酒馆",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.129409,
+      "lat": 22.548855,
+      "spend": null,
+      "address": "深南东路1096-2号",
+      "hours": "20:00-04:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/1e446f56c1b2ba530000002648452201",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/07722fe07021b1fad15797f5750e8947",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/96ebbb0ba8ba2e3aea0ca54f4f08c67d",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "快车道酒吧",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.121904,
+      "lat": 22.545261,
+      "spend": null,
+      "address": "南极路向西大厦3层(湖贝地铁站A口步行250米)",
+      "hours": "19:00-03:00",
+      "desc": "环境舒适",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/5ce2e289f298d46c8ffc69649a3dfb74",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/be88e3b1ac86ff2cc05be04991700235",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "至爱酒吧",
+      "type": "bar",
+      "rating": 4.3,
+      "lng": 114.122367,
+      "lat": 22.5468,
+      "spend": null,
+      "address": "深南东路2019号东乐大厦",
+      "hours": "21:00-02:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/fd95a79bc5d2930984abf04786a0d8b5",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/e8474da2db079c31efba062ad8f205e2",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "FunSpace插画师的咖啡酒馆(仁恒深之源店)",
+      "type": "bar",
+      "rating": 3.8,
+      "lng": 114.126663,
+      "lat": 22.549407,
+      "spend": 34,
+      "address": "黄贝街道凤凰路与文锦中路交汇处仁恒深之源下沉广场B113",
+      "hours": "09:30-23:30",
+      "desc": "创意特调，巴斯克芝士",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/0e5500a99789174d0000004150650437?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/7b00ddce9300fc24db0d832865f79cc8",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/add02efed4565d1e3691a4cfb39d77b1",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "幸运酒吧",
+      "type": "bar",
+      "rating": 3.6,
+      "lng": 114.126758,
+      "lat": 22.553512,
+      "spend": null,
+      "address": "爱国路1002号",
+      "hours": "21:00-03:30",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/863280de34601883dc071ef43f0fdfe4",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/db55b26691ffa72416bec6c430cd64cb",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/bd1e9ad3512a0495e544bf84465e83b0",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外啤酒馆(黄贝岭店)",
+      "type": "beer bar",
+      "rating": 4.1,
+      "lng": 114.13526,
+      "lat": 22.550992,
+      "spend": 83,
+      "address": "黄贝街道黄贝岭三路9号深业东岭1栋128铺",
+      "hours": "周一至周四,周日 17:30-02:30；周五至周六 17:30-03:30",
+      "desc": "精酿酒肆，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/f75d0c6a6a0ad056df99373b1558e471",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HAFHTBB1/comment/a985990f26a7c6448948a57206c9dc82_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0HAFHTBB1/comment/f607d2fc70481f360d09251e0206e89c_2048_2048_80.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "皇马酒馆",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.134995,
+      "lat": 22.551197,
+      "spend": 106,
+      "address": "黄贝岭街道深业东岭9栋2楼",
+      "hours": "08:00-04:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/a4a9341088721168bc29ec8ca5aee787",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0LUNM1AKM/comment/2be855e4-6ca3-4e42-bfc9-f3982b23f688.png",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外啤酒馆(太宁路店)",
+      "type": "beer bar",
+      "rating": 4.1,
+      "lng": 114.136112,
+      "lat": 22.569566,
+      "spend": 81,
+      "address": "翠竹街道太宁路9号水库市场综合楼106",
+      "hours": "周一至周四,周日 17:30-02:30；周五至周六 17:30-03:30",
+      "desc": "早开营业，地铁附近",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0H2PUQTNY/comment/50A906A2_35E1_4BBF_8158_6024D24C82CF_L0_001_2000_150_1770652085341_85065055.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0H2PUQTNY/comment/2ec151b498b59755d97b2273f9c9eb8d_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0H2PUQTNY/comment/deff009105c6176b703a630ca31d9d27_2048_2048_80.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "米兰屋酒吧Music house(景贝南小区店)",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.136663,
+      "lat": 22.556429,
+      "spend": 89,
+      "address": "怡景路1013号(景贝南小区店)",
+      "hours": "10:00-22:00",
+      "desc": "朋友聚会，假日休闲",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/8ace890bb09f94d13bd3441b47dfa5f8",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0J2YAJS7N/comment/E16A422F_7191_4146_BA59_D3AB8D2D9F58_L0_001_1500_2000_1727027756783_32457431.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/60eb08741486b2129d0d9f330fdf301f",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Tagsiu 精酿啤酒馆(黄贝岭店)",
+      "type": "beer bar",
+      "rating": 4.3,
+      "lng": 114.134834,
+      "lat": 22.551178,
+      "spend": 64,
+      "address": "黄贝街道黄贝岭深业东岭9栋一楼(克茗冰室旁)",
+      "hours": "17:00-02:00",
+      "desc": "烧烤酒馆，精酿酒肆",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/cda343739e1fb9f40000000735472343?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/b793d9552fcf0d310000000735452724?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/0899137b418ad1db0000000735472342?type=pic",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "森林吧小酒馆",
+      "type": "bar",
+      "rating": 3.7,
+      "lng": 114.122441,
+      "lat": 22.551623,
+      "spend": 52,
+      "address": "深圳市罗湖区乐园路124号",
+      "hours": "20:00-04:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/森林吧小酒馆.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "TSINGTAO1903青岛啤酒餐吧(华南首店)",
+      "type": "bar & restaurant",
+      "rating": 4.6,
+      "lng": 114.130146,
+      "lat": 22.581516,
+      "spend": 99,
+      "address": "东晓街道东晓社区东昌路9号金啤坊D栋114-D栋129",
+      "hours": "10:30-02:00",
+      "desc": "聊天酒馆，精酿酒肆",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/96614229bf99811e0000003877564534",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/01355f0fbf532d270000002946832308",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/6e94caca7f902b630000003073402284?type=pic",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "跳海酒馆BASE(罗湖店)",
+      "type": "bar",
+      "rating": 4.6,
+      "lng": 114.130401,
+      "lat": 22.580334,
+      "spend": 80,
+      "address": "东昌路与太白路交叉口北80米",
+      "hours": "18:00-02:00",
+      "desc": "舞美灯光酒吧，现场驻唱",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0J3ALR463/comment/6F8E3D99_B008_40D1_A89B_8CDE5DD8AF3A_L0_001_1126_200_1769259652513_29129531.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/comment/content_service__1772470570427_53481303_1772470617619_08743032.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0J3ALR463/comment/content_media_external_file_1000021202_ss__1763989399419_72477684.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "浩运酒馆",
+      "type": "bar",
+      "rating": 3.3,
+      "lng": 114.130957,
+      "lat": 22.582731,
+      "spend": null,
+      "address": "昌晓二路与东昌路交叉口东南60米",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "AlcoHoliday·酒精假日·Home Bar",
+      "type": "lounge bar",
+      "rating": 3.1,
+      "lng": 114.128383,
+      "lat": 22.58129,
+      "spend": null,
+      "address": "东晓街道东晓社区太白路3008号悦彩城1栋C座四层商14",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/f40eb4e98eb4bf381d0d94573d798636",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/a9d0f2ecddebf14db8466222ee942a3b",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/0835c16b0dbb54d43504af63c96f89f9",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "老爷鲜酿·鲜啤餐吧(粤海城店)",
+      "type": "bar & restaurant",
+      "rating": 4.7,
+      "lng": 114.130373,
+      "lat": 22.581294,
+      "spend": 20,
+      "address": "东晓街道东昌路23号(原金威啤酒厂)",
+      "hours": "11:30-02:00",
+      "desc": "精酿啤酒，罗氏虾特色",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0IKMRMSE9/comment/ccbe066c4a3998c84dc233777fe1243c_2048_2048_80.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/5382e93b403987910000002347392167?type=pic",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/da8ef387b0b281770000002364772686?type=pic",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "酒状元精酿酒馆",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.130491,
+      "lat": 22.57493,
+      "spend": 53,
+      "address": "太安路86号(太安地铁站B出口)",
+      "hours": "18:00-03:00",
+      "desc": "朝日扎啤，精酿酒肆",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/e31d9df1dfc257ce935edd29b6633cd3",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0L125U9HX/comment/CFCCA42C_5C61_4526_88D4_313AA4B05D57_L0_001_1500_200_1767046265448_05051181.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/41776dbbaefcb93c0000002908736465?type=pic",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "畔山灯火酒吧",
+      "type": "bar",
+      "rating": 3.3,
+      "lng": 114.128745,
+      "lat": 22.591486,
+      "spend": 94,
+      "address": "东湖街道金岭社区金洲路229号金洲花园12栋一楼102第9号",
+      "hours": "18:00-02:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/a4a80d9341cfd43fa6a6028d127b92bd",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/d1ec42518a48b095cd6838dd6886b549",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/4d69e13b8483e1a432d920249fb3b7b0",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "798·BAR音乐餐酒馆",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.166636,
+      "lat": 22.567777,
+      "spend": 36,
+      "address": "莲塘街道仙湖社区国威路72号罗湖区高新技术产业第一园区",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/7c43c1bda88c0569e80e5202102f1425",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/1bbbb83882f8944d93997f2961e2cfda",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "酒点时刻酒馆",
+      "type": "bar",
+      "rating": 3.8,
+      "lng": 114.165974,
+      "lat": 22.567659,
+      "spend": 144,
+      "address": "罗湖区高新技术产业第一园区西1门东南60米",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/265f0b9740bec8efe584dd9e6a92f540",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "繁花酒馆",
+      "type": "bar",
+      "rating": 3.6,
+      "lng": 114.17096,
+      "lat": 22.605797,
+      "spend": null,
+      "address": "大望村542-6",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/86765083c2a18fc737814756ee608f7e",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "N3小酒馆",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.1703,
+      "lat": 22.604789,
+      "spend": null,
+      "address": "大望社区大望村687号101",
+      "hours": "18:00-02:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/b98c9b19eac4a45616ef5c42e729c1a7",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/c85a51b28399eb7e6a905dc299c3231f",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "丐猴民谣酒馆(愉茗园会员店)",
+      "type": "bar",
+      "rating": 3.8,
+      "lng": 114.195107,
+      "lat": 22.595049,
+      "spend": 110,
+      "address": "梧桐山横排岭山边12号",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "https://store.is.autonavi.com/showpic/757ab26e8383347d1457abf8e2e28b63",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "PAPAYA",
+      "type": "bar",
+      "rating": 4.6,
+      "lng": 114.1164,
+      "lat": 22.54295,
+      "spend": 334,
+      "address": "南湖路2017-1号钻石广场F1",
+      "hours": "21:00-05:00",
+      "desc": "Live演出，电音派对",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/PAPAYA.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "舷火民谣",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.1091,
+      "lat": 22.5487,
+      "spend": 55,
+      "address": "桂园街道人民桥社区解放路3002号港岛银座裙楼1层",
+      "hours": "18:00-03:00",
+      "desc": "新民谣，Live演出",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/舷火民谣.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "SPARKING十八卿(罗湖店)",
+      "type": "bar",
+      "rating": 4.8,
+      "lng": 114.1034,
+      "lat": 22.5608,
+      "spend": 96,
+      "address": "笋岗街道宝安北路HALO广场三期酒吧街一楼",
+      "hours": "周一至周日 18:30-05:00 2026-02-10至2026-02-24 周一至周日 17:00-05:00",
+      "desc": "舞美灯光酒吧，Live演出",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/SPARKING十八卿(罗湖店).jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "0755 TAVERN 酒馆",
+      "type": "bar",
+      "rating": 4.7,
+      "lng": 114.11545,
+      "lat": 22.5459,
+      "spend": 111,
+      "address": "东门社区深南东路3018号概念投资大厦101-607",
+      "hours": "19:00-05:00",
+      "desc": "舞美灯光酒吧，现场驻唱",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/0755 TAVERN 酒馆.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "无边江湖",
+      "type": "bar",
+      "rating": 4.7,
+      "lng": 114.102,
+      "lat": 22.5608,
+      "spend": 83,
+      "address": "梨园路8号HALO广场(桃园路)一期",
+      "hours": null,
+      "desc": "民谣Live，乐队驻唱",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/无边江湖.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "MTCLUB",
+      "type": "bar",
+      "rating": 4.3,
+      "lng": 114.10094,
+      "lat": 22.54235,
+      "spend": 93,
+      "address": "深圳市罗湖区金融中心大厦南座D01(8号街区)",
+      "hours": null,
+      "desc": "有包厢的酒吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/MTCLUB.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "8号街区",
+      "type": "whiskey bar",
+      "rating": 4,
+      "lng": 114.1005542,
+      "lat": " 22.5418704",
+      "spend": 47,
+      "address": "京基晶都酒店桂园街道新围社区深圳市罗湖区金华街8号金融中心南座",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/8号街区.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "MIMO lounge club(罗湖店)",
+      "type": "bar",
+      "rating": 4.7,
+      "lng": 114.09953,
+      "lat": 22.54082,
+      "spend": 81,
+      "address": "深圳市罗湖区红岭南路1040号",
+      "hours": "14:00-05:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/MIMO lounge club(罗湖店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "黑金私享会馆3期VIP LOUNGE",
+      "type": "bar",
+      "rating": 3.9,
+      "lng": 114.10405,
+      "lat": 22.54222,
+      "spend": null,
+      "address": "深圳市罗湖区书城路1号都市名园(大剧院地铁站F口步行320米)",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/黑金私享会馆3期VIP LOUNGE.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "moody(宝安南路店)",
+      "type": "bar",
+      "rating": 3.7,
+      "lng": 114.10567,
+      "lat": 22.54237,
+      "spend": null,
+      "address": "深圳市罗湖区宝安南路1881号万象城1期",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "Abiyoyo Bar",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.10771,
+      "lat": 22.543333,
+      "spend": 117,
+      "address": "宝安南路嘉宾花园A座二楼（小区背面河边商铺）",
+      "hours": "19:30-03:00",
+      "desc": "酒水丰富，环境典雅",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Abiyoyo Bar.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "V+HomeBar",
+      "type": "whiskey bar",
+      "rating": 3.5,
+      "lng": 114.10964,
+      "lat": 22.54235,
+      "spend": null,
+      "address": "深圳市罗湖区南湖街道嘉宾路爵士大厦B座17B09",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "WooHoo1913(世金国际B座店)",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.10891,
+      "lat": 22.54466,
+      "spend": 78,
+      "address": "深圳市罗湖区南湖街道深南东路4008号世界金融中心B座世金国际1913室",
+      "hours": "周二至周日 20:00-02:00",
+      "desc": "高空夜景，特调苏打酒馆，聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/WooHoo1913(世金国际B座店).jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "空庐kongInn",
+      "type": "lounge bar",
+      "rating": 4.5,
+      "lng": 114.10891,
+      "lat": 22.54466,
+      "spend": 92,
+      "address": "深圳市罗湖区深南东路4003号世界金融中心B座1608室",
+      "hours": "周一,周三至周四,周日 20:00-01:00；周五至周六 20:00-01:30",
+      "desc": "高空夜景，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/空庐kongInn.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "THE ST.REGIS BAR瑞吉吧",
+      "type": "bar",
+      "rating": 4.6,
+      "lng": 114.10189,
+      "lat": 22.54694,
+      "spend": 153,
+      "address": "深圳市罗湖区桂园街道深南东路5016号KKMALL京基百纳空间F1层",
+      "hours": "11:00-01:00",
+      "desc": "现场驻唱，爵士音乐会",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/THE ST.REGIS BAR瑞吉吧.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "社恐研酒院homebar(振业大厦店)",
+      "type": "bar",
+      "rating": 3.8,
+      "lng": 114.10558,
+      "lat": 22.5473,
+      "spend": 135,
+      "address": "深圳市罗湖区振业大厦B座(大剧院地铁站D口步行340米)",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/社恐研酒院homebar(振业大厦店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫尾吧Cattail BAR",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.10687,
+      "lat": 22.54875,
+      "spend": 51,
+      "address": "深圳市罗湖区桂园街道恒大天玺公馆2栋107号",
+      "hours": "19:00-02:00",
+      "desc": "特调苏打酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/猫尾吧Cattail BAR.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Club WHY·文和友俱乐部(港岛银座大厦店)",
+      "type": "club",
+      "rating": 3.9,
+      "lng": 114.109,
+      "lat": 22.5486,
+      "spend": null,
+      "address": "深圳市罗湖区桂园街道人民桥社区解放路3002号港岛银座裙楼1层N1",
+      "hours": "周一至周四,周日 19:00-02:00；周五至周六 20:00-04:00",
+      "desc": "俱乐部酒吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Club WHY·文和友俱乐部(港岛银座大厦店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "GO HOMEBAR(罗湖店)",
+      "type": "bar",
+      "rating": 3,
+      "lng": 114.1015,
+      "lat": 22.5534,
+      "spend": 91,
+      "address": "深圳市罗湖区松园南街与松园西街交叉口西南20米",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "V.P tioLounge",
+      "type": "whiskey bar",
+      "rating": 2.7,
+      "lng": 114.1024,
+      "lat": 22.5612,
+      "spend": null,
+      "address": "深圳市罗湖区笋岗街道蜜园路HALO广场2期",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/V.P tioLounge.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "DCee Bar&Live",
+      "type": "whiskey bar",
+      "rating": 3.8,
+      "lng": 114.1024,
+      "lat": 22.5613,
+      "spend": 119,
+      "address": "深圳市罗湖区笋岗街道桃园路HALO广场2期",
+      "hours": "20:00-05:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/DCee Bar&Live.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "莉莉 玛莲",
+      "type": "whiskey bar",
+      "rating": 4.5,
+      "lng": 114.1021,
+      "lat": 22.5614,
+      "spend": 106,
+      "address": "深圳市罗湖区笋岗街道奈雪的茶(梨园路店)HALO广场2期",
+      "hours": null,
+      "desc": "室内蹦迪",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/莉莉 玛莲.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "罗湖赫本酒吧(笋岗店)",
+      "type": "club",
+      "rating": 4.4,
+      "lng": 114.1019,
+      "lat": 22.5612,
+      "spend": 300,
+      "address": "梨园路8号HALO广场(园岭地铁站D口步行440米)",
+      "hours": "20:00-06:00",
+      "desc": "DJ打碟，热舞派对",
+      "photos": [
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0LGKOQLNO/comment/DDB7D5FA_6284_4874_9E10_F2EA43574621_L0_001_1620_1080_1744454036122_26064824.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0LGKOQLNO/comment/content_media_external_file_100003259_1744816630945_49107803.jpg",
+          "preurl": ""
+        },
+        {
+          "title": "",
+          "url": "https://aos-comment.amap.com/B0LGKOQLNO/comment/content_media_external_file_100000466_1751464289461_34173837.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "禾计划·德州主题酒馆(罗湖店)",
+      "type": "lounge bar",
+      "rating": 4.5,
+      "lng": 114.1035,
+      "lat": 22.5623,
+      "spend": 106,
+      "address": "深圳市罗湖区笋岗街道笋岗玩具礼品城7楼737号",
+      "hours": "18:00-03:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/禾计划·德州主题酒馆(罗湖店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "海半Hihalf homebar(罗湖店)",
+      "type": "lounge bar",
+      "rating": 4.5,
+      "lng": 114.1021,
+      "lat": 22.5625,
+      "spend": 94,
+      "address": "深圳市罗湖区宝能笋岗艺方中心7层718",
+      "hours": "21:00-04:00",
+      "desc": "音乐吧，现场驻唱",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/海半Hihalf homebar(罗湖店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "SHADOW BAY",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.1063,
+      "lat": 22.564,
+      "spend": 141,
+      "address": "深圳市罗湖区宝岗路5号(笋岗地铁站C1口步行240米)诺岸酒店7楼",
+      "hours": "06:30-02:00",
+      "desc": "安静小酌，聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/SHADOW BAY.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Bad Habits坏习惯",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.099378,
+      "lat": 22.5638294,
+      "spend": 70,
+      "address": "深圳市罗湖区展艺路803号3层(红岭北地铁站D口步行50米)",
+      "hours": "19:00-03:00",
+      "desc": "鸡尾酒",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Bad Habits坏习惯.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "THE PLAY",
+      "type": "lounge bar",
+      "rating": 4.3,
+      "lng": 114.1005,
+      "lat": 22.5645,
+      "spend": 78,
+      "address": "深圳市罗湖区笋岗街道艺茂中心A127(北门旁)",
+      "hours": "19:30-02:30",
+      "desc": "特调苏打酒馆，舞美灯光酒吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/THE PLAY.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "TheDramHouse(招商中环店)",
+      "type": "whiskey bar",
+      "rating": 2.7,
+      "lng": 114.100106,
+      "lat": 22.565,
+      "spend": null,
+      "address": "深圳市罗湖区红岭北地铁站J口G口出站口",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/TheDramHouse(招商中环店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "家夜·HomelyNight小酒馆",
+      "type": "bar",
+      "rating": 4.6,
+      "lng": 114.10005,
+      "lat": 22.565556,
+      "spend": 188,
+      "address": "深圳市罗湖区笋岗街道招商开元中心03块105(奈雪隔隔壁)",
+      "hours": "周一至周四 18:30-02:00；周五至周六 18:30-04:00；周日 13:00-02:00",
+      "desc": "鸡尾酒，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/家夜·HomelyNight小酒馆.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "贪杯",
+      "type": "bar",
+      "rating": 3.7,
+      "lng": 114.106,
+      "lat": 22.591,
+      "spend": 91,
+      "address": "深圳市罗湖区红岗路龙园山庄大门口一号商铺",
+      "hours": "20:00-03:00",
+      "desc": "搜羅銀河系好酒",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/贪杯.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "究极Super-atom",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.1059,
+      "lat": 22.5845,
+      "spend": 110,
+      "address": "深圳市罗湖区清水河四路2号腾邦大厦B座一层",
+      "hours": "09:00-21:00",
+      "desc": "专业服务",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/究极Super-atom.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "蜡笔の家·home bar",
+      "type": "bar",
+      "rating": 3.1,
+      "lng": 114.1078,
+      "lat": 22.565,
+      "spend": 93,
+      "address": "深圳市罗湖区笋岗街道宝岗路笋岗天欣6栋309",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/蜡笔の家·home bar.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "踢馆 Beer/Food",
+      "type": "bar & restaurant",
+      "rating": 1.7,
+      "lng": 114.117,
+      "lat": 22.568,
+      "spend": 42,
+      "address": "深圳市罗湖区笋岗街道田贝社区文锦北路1155号美景花园大厦洪湖路110号",
+      "hours": "19:00-02:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/踢馆 Beer.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "聚友酒庄",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.119126,
+      "lat": 22.5688,
+      "spend": null,
+      "address": "深圳市罗湖区田贝路134号(洪湖地铁站D口步行210米)",
+      "hours": "10:30-03:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/聚友酒庄.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Crescentmoon",
+      "type": "lounge bar",
+      "rating": 4.5,
+      "lng": 114.121,
+      "lat": 22.5684,
+      "spend": 55,
+      "address": "深圳市罗湖区田贝四路77-2号",
+      "hours": "18:00-02:00",
+      "desc": "酒单丰富",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Crescentmoon.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "IBC珠宝艺术馆",
+      "type": "bar",
+      "rating": 3.7,
+      "lng": 114.12,
+      "lat": 22.577,
+      "spend": null,
+      "address": "深圳市罗湖区布心路3008号IBC MALL L4层",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/IBC珠宝艺术馆.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "优布劳精酿酒馆(深圳罗湖店)",
+      "type": "bar",
+      "rating": 3.7,
+      "lng": 114.1205,
+      "lat": 22.5786,
+      "spend": null,
+      "address": "深圳市罗湖区太白路松泉山庄3栋首层D1之2A",
+      "hours": "18:30-02:00",
+      "desc": "外卖服务",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/优布劳精酿酒馆(深圳罗湖店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "HOLES",
+      "type": "lounge bar",
+      "rating": 4.4,
+      "lng": 114.122,
+      "lat": 22.5805,
+      "spend": 113,
+      "address": "深圳市罗湖区翠竹北路33号C33创意产业园105",
+      "hours": "19:00-03:00",
+      "desc": "露天座位，现场表演",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/HOLES.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "AQUA X·日茶夜酒",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.12522,
+      "lat": 22.57836,
+      "spend": 71,
+      "address": "深圳市罗湖区东晓街道松泉社区布心路2068号翠园华府D座",
+      "hours": "17:00-03:00",
+      "desc": "露天座位，可包场",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/AQUA X·日茶夜酒.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Tap.bar(布心店)",
+      "type": "lounge bar",
+      "rating": 4.5,
+      "lng": 114.1287,
+      "lat": 22.58186,
+      "spend": 21,
+      "address": "深圳市罗湖区东晓街道东晓社区太白路3008号悦彩城3栋商11",
+      "hours": "18:00-03:00",
+      "desc": "精酿酒肆，聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Tap.bar(布心店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "想遇清吧",
+      "type": "lounge bar",
+      "rating": 3.6,
+      "lng": 114.1312,
+      "lat": 22.58185,
+      "spend": 86,
+      "address": "深圳市罗湖区东昌路48号东兴工业大厦112(特力北商业街69号)",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/想遇清吧.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "红橡德州酒馆Red Oak Pub",
+      "type": "whiskey bar",
+      "rating": 4.4,
+      "lng": 114.1308,
+      "lat": 22.5815,
+      "spend": 71,
+      "address": "深圳市罗湖区东晓街道东昌路粤海城",
+      "hours": "19:00-03:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/红橡德州酒馆Red Oak Pub.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "街厂微醺精酿打酒站",
+      "type": "beer bar",
+      "rating": 3.2,
+      "lng": 114.1316,
+      "lat": 22.582,
+      "spend": null,
+      "address": "深圳市罗湖区东晓街道东晓社区东昌路62号金啤广场1985D栋D16号",
+      "hours": null,
+      "desc": "外卖服务",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/街厂微醺精酿打酒站.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "空间清吧",
+      "type": "lounge bar",
+      "rating": 4,
+      "lng": 114.1324,
+      "lat": 22.58175,
+      "spend": 52,
+      "address": "深圳市罗湖区东晓路特力布心工业区5-6连廊3楼",
+      "hours": "07:00-22:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/空间清吧.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "韵道(盐业综合大楼店)",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.12479,
+      "lat": 22.56799,
+      "spend": 368,
+      "address": "深圳市罗湖区田贝三路8号盐业综合大楼F1层",
+      "hours": "周一至周六 11:00-19:00",
+      "desc": "吸烟区",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/韵道(盐业综合大楼店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "T·P·O TapRoom & Cafe",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.129,
+      "lat": 22.578,
+      "spend": 35,
+      "address": "深圳市罗湖区东晓街道东晓社区布心路2038号外贸大院1栋107A室TPO TapRoom",
+      "hours": "周一至周六 07:30-18:00,18:30-02:00；周日 10:30-18:00,18:30-02:00",
+      "desc": "外卖服务，宠物友好",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/T·P·O TapRoom & Cafe.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "梦梦音乐酒吧",
+      "type": "bar",
+      "rating": 3.7,
+      "lng": 114.134,
+      "lat": 22.57035,
+      "spend": null,
+      "address": "深圳市罗湖区太宁路与东乐路交叉口东南180米",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "酒逢知己小酒馆",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.1335,
+      "lat": 22.56835,
+      "spend": 44,
+      "address": "深圳市罗湖区水库新村230-102号",
+      "hours": "18:00-04:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/酒逢知己小酒馆.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Lucky小酒馆",
+      "type": "bar",
+      "rating": 3.9,
+      "lng": 114.133,
+      "lat": 22.56635,
+      "spend": 59,
+      "address": "深圳市罗湖区爱国路水库新村20号楼103号",
+      "hours": "18:00-02:00",
+      "desc": "外卖服务",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Lucky小酒馆.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "禾计划·德州社交酒馆",
+      "type": "bar",
+      "rating": 2.6,
+      "lng": 114.135,
+      "lat": 22.5645,
+      "spend": null,
+      "address": "深圳市罗湖区黄贝街道爱国路东湖大厦B栋3楼",
+      "hours": "周一至周四 18:00-03:00；周五至周日 17:30-04:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/禾计划·德州社交酒馆.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "红糖罐(黄贝路店1楼)",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.1367,
+      "lat": 22.5613,
+      "spend": 66,
+      "address": "深圳市罗湖区黄贝路乐扬枫景1楼(近碧波小学)",
+      "hours": "19:00-02:00",
+      "desc": "现场驻唱，聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/红糖罐(黄贝路店1楼).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "慢逐",
+      "type": "bar",
+      "rating": 3.9,
+      "lng": 114.1365,
+      "lat": 22.5605,
+      "spend": 30,
+      "address": "深圳市罗湖区深圳交响乐团东南门旁(怡景地铁站C口步行320米)",
+      "hours": "08:30-19:00",
+      "desc": "外卖服务，宠物友好",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/慢逐.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "不鲸酒馆",
+      "type": "bar",
+      "rating": 1.9,
+      "lng": 114.136,
+      "lat": 22.5595,
+      "spend": null,
+      "address": "深圳市罗湖区黄贝路与怡景路交叉口东北60米",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    },
+    {
+      "name": "印象吧(信和东门不夜天店)",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.117,
+      "lat": 22.55,
+      "spend": 91,
+      "address": "深圳市罗湖区信和东门不夜天10楼(晒布地铁站A1口步行190米)",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/印象吧(信和东门不夜天店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "蓝调BLUES BAR(东门中路店)",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.1168,
+      "lat": 22.5495,
+      "spend": null,
+      "address": "深圳市罗湖区信和·东门商厦7层(晒布地铁站A1口步行220米)",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/蓝调BLUES BAR(东门中路店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Miu吧(深圳市百货广场大厦店)",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.1145,
+      "lat": " 22.54628",
+      "spend": 109,
+      "address": "深圳市罗湖区东门百货广场2楼天桥上L217店铺Miu吧",
+      "hours": "11:00-04:00",
+      "desc": "吸烟区，景观位",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Miu吧(深圳市百货广场大厦店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "For+you+bar为你酒吧",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.11625,
+      "lat": 22.54595,
+      "spend": 107,
+      "address": "深圳市罗湖区金城大厦1座A3(湖贝地铁站F口步行220米)",
+      "hours": "07:45-02:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/For+you+bar为你酒吧.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "简·爱Bar",
+      "type": "bar",
+      "rating": 3.7,
+      "lng": 114.116644,
+      "lat": 22.5456,
+      "spend": null,
+      "address": "深圳市罗湖区南湖街道嘉北社区深南东路3019号金城大厦地下商场17号铺位",
+      "hours": "20:00-02:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/简·爱Bar.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "Muse Bar(南湖路店)",
+      "type": "bar",
+      "rating": 4.1,
+      "lng": 114.116021,
+      "lat": 22.54538,
+      "spend": 134,
+      "address": "南湖路深南东路(国贸地铁站B口步行460米)",
+      "hours": "9:30-02:30",
+      "desc": "安静小酌，聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/Muse Bar(南湖路店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "银座俱乐部",
+      "type": "club",
+      "rating": 3.7,
+      "lng": 114.115556,
+      "lat": 22.5458,
+      "spend": 535,
+      "address": "深圳市罗湖区南湖街道深南东路3033号粤海酒店二楼203号银座俱乐部",
+      "hours": "19:00-06:00",
+      "desc": "俱乐部酒吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/银座俱乐部.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "16BAR(南湖时代广场店)",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.115,
+      "lat": 22.543,
+      "spend": 79,
+      "address": "深圳市罗湖区南湖路3005号南湖时代广场",
+      "hours": "10:30-02:00",
+      "desc": "有包间",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/16BAR(南湖时代广场店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "玛莉亚酒吧",
+      "type": "bar",
+      "rating": 4.3,
+      "lng": 114.116,
+      "lat": 22.5443,
+      "spend": 206,
+      "address": "深圳市罗湖区南湖街道嘉北社区南湖路3012号罗湖大酒店二楼205",
+      "hours": "09:00-02:00",
+      "desc": "适合小聚，出酒快",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/玛莉亚酒吧.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "TAO BAR",
+      "type": "lounge bar",
+      "rating": 4.5,
+      "lng": 114.117,
+      "lat": 22.544542,
+      "spend": 63,
+      "address": "深圳市罗湖区东门南路寸金大厦一(向西村地铁站D1口步行380米)",
+      "hours": "18:00-05:00",
+      "desc": "啤酒馆，安静小酌",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/TAO BAR.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "深圳香格里拉大酒店-大堂酒廊",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.112921,
+      "lat": 22.536421,
+      "spend": 86,
+      "address": "深圳市罗湖区建设路1002号深圳香格里拉大酒店1层",
+      "hours": "06:30-23:00",
+      "desc": "本地人推荐",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/深圳香格里拉大酒店-大堂酒廊.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "明月星卡拉OK音乐酒吧",
+      "type": "bar",
+      "rating": 4.4,
+      "lng": 114.1217,
+      "lat": 22.546,
+      "spend": 61,
+      "address": "深圳市罗湖区深南东路2025号广深宾馆旁",
+      "hours": "10:00-22:00",
+      "desc": "音乐吧",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/明月星卡拉OK音乐酒吧.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "巷里小酒馆ALLEY PUB",
+      "type": "bar",
+      "rating": 4,
+      "lng": 114.124,
+      "lat": 22.55,
+      "spend": 85,
+      "address": "深圳市罗湖区乐园路68号湖贝新村7栋101号",
+      "hours": "周五至周六 18:00-02:00；周一至周四,周日 19:30-24:00",
+      "desc": "啤酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/巷里小酒馆ALLEY PUB.jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "ZRRFIT揸啡酒咖(湖贝里店)",
+      "type": "bar",
+      "rating": 4.3,
+      "lng": 114.1238,
+      "lat": 22.5495,
+      "spend": 26,
+      "address": "深圳市罗湖区东门街道湖贝路1068号润月广场湖贝里3-21",
+      "hours": "10:00-02:00",
+      "desc": "打卡酒肆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/ZRRFIT揸啡酒咖(湖贝里店).jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "微醺see you tomorrow",
+      "type": "lounge bar",
+      "rating": 4.1,
+      "lng": 114.12385,
+      "lat": 22.5485,
+      "spend": 40,
+      "address": "深圳市罗湖区湖贝路1087号(湖贝地铁站A口步行390米)",
+      "hours": "19:30-04:00",
+      "desc": "鸡尾酒",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/微醺see you tomorrow.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "皇同德州酒馆",
+      "type": "whiskey bar",
+      "rating": 3.7,
+      "lng": 114.12385,
+      "lat": 22.5472,
+      "spend": null,
+      "address": "深圳市罗湖区南湖街道深南东路万科深南广场西塔七楼705",
+      "hours": "19:00-03:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/皇同德州酒馆.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "遇见(向西大厦店)",
+      "type": "bar",
+      "rating": 4.5,
+      "lng": 114.1221,
+      "lat": 22.5455,
+      "spend": 69,
+      "address": "深圳市罗湖区南湖街道南极路向西大厦105",
+      "hours": "09:00-23:00",
+      "desc": "新民谣聊天酒馆",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/遇见(向西大厦店).jpg",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "拥抱抓抓cuddlepaws",
+      "type": "whiskey bar",
+      "rating": 4.4,
+      "lng": 114.126663,
+      "lat": 22.5456,
+      "spend": 63,
+      "address": "深圳市罗湖区春风路1046号(文锦地铁站C口步行330米)",
+      "hours": "07:00-01:00",
+      "desc": "复古风，隐世风格",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/拥抱抓抓cuddlepaws.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "猫员外精酿啤酒馆(莲塘店)",
+      "type": "beer bar",
+      "rating": 4.2,
+      "lng": 114.164,
+      "lat": 22.565,
+      "spend": 72,
+      "address": "深圳市罗湖区莲塘街道鹏兴社区祥和花园一期聚宝路11号",
+      "hours": "周一至周四,周日 17:30-02:30；周五至周六 17:30-03:30",
+      "desc": "大屏观赛鸡尾酒",
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/猫员外精酿啤酒馆(莲塘店).jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "枫月情清吧",
+      "type": "lounge bar",
+      "rating": 3.7,
+      "lng": 114.166,
+      "lat": 22.5638,
+      "spend": 90,
+      "address": "深圳市罗湖区莲塘村八巷34号-1号",
+      "hours": "18:00-23:00",
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/枫月情清吧.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "吹水清吧",
+      "type": "lounge bar",
+      "rating": 3.4,
+      "lng": 114.1685,
+      "lat": 22.5638,
+      "spend": 126,
+      "address": "深圳市罗湖区莲塘路与莲罗路交叉口东20米",
+      "hours": null,
+      "desc": null,
+      "photos": [
+        {
+          "title": "",
+          "url": "pics/luohu/吹水清吧.jfif",
+          "preurl": ""
+        }
+      ]
+    },
+    {
+      "name": "御水涧·才艺·私享CLUB",
+      "type": "bar",
+      "rating": 1.6,
+      "lng": 114.166636,
+      "lat": 22.5698,
+      "spend": null,
+      "address": "深圳市罗湖区粤港路与百世路交叉口西南40米",
+      "hours": null,
+      "desc": null,
+      "photos": []
+    }
+  ]
+}
